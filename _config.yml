@@ -1,0 +1,78 @@
+name: zz-studios
+analytics: {}
+purpose:
+  - type: contact
+    url: 'tel:8157348882'
+    label: Call for Free Quote and Answers
+  - type: contact
+    url: 'mailto:zzstudios1@gmail.com'
+    label: Contact me
+github: true
+description: Your Digital Life....Your Way!
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author:
+  name: Jim Zalzalah
+  url: www.zz-studios.com
+  email: zzstudios1@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9550c68-55df-4c2c-b7bc-36a6f5505333.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9550c68-55df-4c2c-b7bc-36a6f5505333.png
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.5243120668455958
+color:
+  lightness: 0.1207678550854325
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.3697789297439158
+  brandStrength: 0.3707775380462408
+  rhythmicContrast: 0.9184469741303474
+content_rating:
+  adult: false
+typography_spectrum: 0.2830986166372895
+opengraph:
+  type: business
+  appId: '18680764170'
+title: Zalzalah Studios Inc
